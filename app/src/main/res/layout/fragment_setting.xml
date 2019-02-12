@@ -84,17 +84,19 @@
             android:paddingTop="10dp"
             android:paddingBottom="10dp">
             <TextView
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:textColor="#333333"
                 android:textSize="16sp"
+                android:singleLine="true"
                 android:text="@string/my_github_name"/>
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textColor="#767676"
                 android:textSize="16sp"
+                android:singleLine="true"
                 android:drawableRight="@mipmap/arrow_right"
                 android:gravity="center_vertical"
                 android:drawablePadding="10dp"
@@ -111,7 +113,7 @@
             android:paddingTop="10dp"
             android:paddingBottom="10dp">
             <TextView
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:textColor="#333333"

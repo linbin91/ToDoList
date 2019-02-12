@@ -32,8 +32,8 @@
     <string name="done_todo_date">完成时间：%s</string>
     <string name="account_name">账号信息</string>
     <string name="modify_password">修改密码</string>
-    <string name="my_github_url">https://github.com/wjwang0914</string>
-    <string name="my_github_name">github</string>
+    <string name="my_github_url">https://github.com/linbin91/ToDoList</string>
+    <string name="my_github_name">Github:</string>
     <string name="api_support_name">API</string>
     <string name="api_support_url">http://www.wanandroid.com/</string>
     <string name="no_text">本宝宝暂时还没有想到详细信息</string>
